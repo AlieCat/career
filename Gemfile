@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -29,7 +29,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-=======
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -60,4 +59,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
->>>>>>> e9b42a4d01c0a47ddd7bcd2b46cc7bc507b5cb3b
+
