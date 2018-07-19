@@ -1,4 +1,9 @@
 /*******Customization Starts Here********/
+
+.character-group{
+	width: 100%;
+}
 .group-4{
 	float: left;
+	width: 25%;
 }
