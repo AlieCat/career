@@ -15,4 +15,7 @@
 	.group-4{
 		width:50%;
 	}
+	.group-4 a p{
+		margin: 0 auto;	
+	}
 }
